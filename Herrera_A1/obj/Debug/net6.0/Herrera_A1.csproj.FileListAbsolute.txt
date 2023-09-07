@@ -1,0 +1,15 @@
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/bin/Debug/net6.0/Herrera_A1
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/bin/Debug/net6.0/Herrera_A1.deps.json
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/bin/Debug/net6.0/Herrera_A1.runtimeconfig.json
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/bin/Debug/net6.0/Herrera_A1.dll
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/bin/Debug/net6.0/Herrera_A1.pdb
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/Herrera_A1.csproj.AssemblyReference.cache
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/Herrera_A1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/Herrera_A1.AssemblyInfoInputs.cache
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/Herrera_A1.AssemblyInfo.cs
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/Herrera_A1.csproj.CoreCompileInputs.cache
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/Herrera_A1.dll
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/refint/Herrera_A1.dll
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/Herrera_A1.pdb
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/Herrera_A1.genruntimeconfig.cache
+/Users/soonerale/Documents/education/fall2023/DOTNET_DB/Herrera_A1/wctc_156-101_a1/Herrera_A1/Herrera_A1/obj/Debug/net6.0/ref/Herrera_A1.dll
